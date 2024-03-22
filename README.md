@@ -3,7 +3,7 @@
 Bot Discord với trình tạo ảnh A.I. bởi ChatGPT
 
 ## Ủng hộ dự án:
-- ⭐ **Star dự án:** Star dự án của [Ruu3f](https://github.com/Ruu3f/freeGPT-discord)) và cả repo của [freeGPT](https://github.com/Ruu3f/freeGPT). Nó sẽ có ý nghĩa rất nhiều đối với Ruu3f! 💕
+- ⭐ **Star dự án:** Star dự án của [Ruu3f](https://github.com/Ruu3f/freeGPT-discord) và cả repo của [freeGPT](https://github.com/Ruu3f/freeGPT). Nó sẽ có ý nghĩa rất nhiều đối với Ruu3f! 💕
 - 🎉 **Tham gia máy chủ Discord của Ruu3f:** Nhắn tin với Ruu3f và người khác [tại đây](https://dsc.gg/devhub-rsgh):
 
 [![DiscordWidget](https://discordapp.com/api/guilds/1137347499414278204/widget.png?style=banner2)](https://dsc.gg/devhub-rsgh)
